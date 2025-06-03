@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MVVMExample</string>
+    <string name="navigation_action_back_cd">MVVMExample</string>
+    <string name="search_text_field_clear">MVVMExample</string>
+    <string name="add_store">Add Store</string>
+    <string name="store_name">Store Name</string>
+    <string name="address">Address</string>
+    <string name="change_location">Change location</string>
+    <string name="save">Save</string>
+    <string name="pick_address">Google Map</string>
+    <string name="road">Road</string>
+    <string name="phone">Phone</string>
+    <string name="store_no">Store No.</string>
+    <string name="details">Store Details</string>
+    <string name="edit_store">Edit Store</string>
+    <string name="update">Update</string>
+
+</resources>
